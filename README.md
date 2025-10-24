@@ -1,0 +1,1 @@
+A Python-based D-Mart shopping bill simulation using classes and loops. It allows users to choose from categories like grocery, snacks, drinks, cosmetics, and stationery, calculates item totals, and displays a bill summary interactively through console input and output.
