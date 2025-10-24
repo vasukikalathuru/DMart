@@ -1,4 +1,4 @@
-# D-Mart Shopping Simulation (Corrected)
+# D-Mart Shopping bill
 
 # Welcome message
 print("     D-Mart     \n"
@@ -228,4 +228,5 @@ while(1):
     elif user == '5':
         obj.stationary()
     else:
+
         print("Invalid category selection")
